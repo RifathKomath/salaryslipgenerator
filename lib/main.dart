@@ -13,10 +13,9 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Salary Slip Generator',
-      theme: ThemeData(
-       
-       
+      theme: ThemeData(      
       ),
+      debugShowCheckedModeBanner: false,
       home: LoginView()
     );
   }

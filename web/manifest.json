@@ -1,6 +1,6 @@
 {
-    "name": "employee_management_system",
-    "short_name": "employee_management_system",
+    "name": "Salary Slip Generator",
+    "short_name": "Salary Slip Generator",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
